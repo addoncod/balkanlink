@@ -1,0 +1,13 @@
+{
+	"builds": [
+		{
+			"name": "BALKAN LINK",
+			"version": "1.0",
+			"url": "https://github.com/addoncod/balkanlink/raw/refs/heads/main/balkanlink.zip",
+			"icon": "http://",
+			"fanart": "http://",
+			"description": "Balkan Link Build",
+			"preview": "http://"
+		}
+	]
+}
