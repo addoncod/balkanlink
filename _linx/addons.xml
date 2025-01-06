@@ -1017,8 +1017,8 @@ v5.2.14 (2017-01-23)
 </addon>
 
 <addon
-  id="skin.linxskin"
-  version="1.0"
+  id="skin.estuary"
+  version="2025.01"
   name="LINX SKIN"
   provider-name="LINX">
   <requires>
@@ -1036,9 +1036,9 @@ v5.2.14 (2017-01-23)
     <summary lang="en">eXtended MOD of Confluence skin originally by Jezz_X and CCM by Mudislander.</summary>
     <summary lang="en_US">eXtended MOD of Confluence skin originally by Jezz_X and CCM by Mudislander.</summary>
     <summary lang="nl">Uitgebreide MOD van Confluence skin origineel door Jezz_X en CCM door Mudislander.</summary>
-    <description lang="en">linxskin is a MOD of Confluence to enable a greater degree of user customisation to the default skin (based by Mudislander's CCM).</description>
-    <description lang="en_US">linxskin is a MOD of Confluence to enable a greater degree of user customisation to the default skin (based by Mudislander's CCM).</description>
-    <description lang="nl">linxskin is een MOD van Confluence om een grotere aanpassingsmogelijkheid te geven ten opzichten van de standaard skin (gebaseerd op Mudislander's CCM).</description>
+    <description lang="en">estuary is a MOD of Confluence to enable a greater degree of user customisation to the default skin (based by Mudislander's CCM).</description>
+    <description lang="en_US">estuary is a MOD of Confluence to enable a greater degree of user customisation to the default skin (based by Mudislander's CCM).</description>
+    <description lang="nl">estuary is een MOD van Confluence om een grotere aanpassingsmogelijkheid te geven ten opzichten van de standaard skin (gebaseerd op Mudislander's CCM).</description>
     <disclaimer lang="en">You break it - You get to keep the pieces</disclaimer>
     <disclaimer lang="en_US">You break it - You get to keep the pieces</disclaimer>
     <disclaimer lang="nl">Wie zijn billen brandt - moet op de blaren zitten</disclaimer>
@@ -1047,7 +1047,7 @@ v5.2.14 (2017-01-23)
 	  <forum>https://forum.kodi.tv/showthread.php?tid=315391</forum>
 	  <website></website>
 	  <email></email>
-	  <source>https://github.com/Helly1206/skin.linxskin</source>
+	  <source>https://github.com/Helly1206/skin.estuary</source>
     <assets>
       <icon>resources/icon.png</icon>
       <fanart>resources/fanart.jpg</fanart>
