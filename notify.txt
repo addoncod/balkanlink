@@ -5,7 +5,7 @@
 
 1. Add a Device ID or use an existing one.  
    - If you have an old Device ID, simply enter it.  
-   - If not, create a new one and then input it on the website: [log.greenb00k.org](http://log.greenb00k.org).  
+   - If not, create a new one and then input it on the website: (https://log.greenb00k.org).  
 
 2. After creating the Device ID on the website, press "OK" in Kodi.  
 
