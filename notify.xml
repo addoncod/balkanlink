@@ -1,3 +1,14 @@
-2
+1
 |||
-Place yours notifications below the 3 lines. Raise the value of the number above the 3 lines to prompt a popup on Kodi startup. Host this file and add the url to the notify_url variable located in the addonvar.py file. 
+
+
+**Instruction Manual**  
+**For Adding Movies, TV Shows, and Linx TV**
+
+1. Add a Device ID or use an existing one.  
+   - If you have an old Device ID, simply enter it.  
+   - If not, create a new one and then input it on the website: [log.greenb00k.org](http://log.greenb00k.org).  
+
+2. After creating the Device ID on the website, press "OK" in Kodi.  
+
+3. Add playlists on [log.greenb00k.org](http://log.greenb00k.org) and then in Kodi.
