@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>Naslov feeda</title>
-  <link>http://www.website.com</link>
-  <description>Kratki opis feeda</description>
+  <title>Balkan Link version 1.0</title>
   <item>
-    <title>Naslov članka</title>
-    <link>http://www.website.com/clanak</link>
-    <description>Kratak opis članka</description>
-    <pubDate>Datum objave</pubDate>
-  </item>
-  <item>
-    <title>Naslov drugog članka</title>
-    <link>http://www.website.com/drugi-clanak</link>
-    <description>Kratak opis drugog članka</description>
-    <pubDate>Datum objave drugog članka</pubDate>
+    <title>Balkan Link is a free and open-source build developed by LINX. It allows users to play and view most streaming media, such as videos, music, podcasts, and videos from the internet, as well as all common digital media files from local and network storage media. BALKAN LINK features a customizable interface and supports a wide range of plugins for enhanced functionality.</title>
   </item>
 </channel>
 </rss>
