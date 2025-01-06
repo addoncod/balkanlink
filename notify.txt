@@ -9,4 +9,4 @@
 
 2. After creating the Device ID on the website, press "OK" in Kodi.  
 
-3. Add playlists on [log.greenb00k.org](http://log.greenb00k.org) and then in Kodi.
+3. Add playlists on (https://log.greenb00k.org) and then in Kodi.
